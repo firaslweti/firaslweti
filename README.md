@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vansysinc.com/wp-content/uploads/2023/09/banner-software-development-engineering-5-800x250.png)](https://rishavchanda.io)
+<div style = "text-align : center">[![MasterHead](https://www.vansysinc.com/wp-content/uploads/2023/09/banner-software-development-engineering-5-800x250.png)](https://rishavchanda.io)</div>
 <h1 align="center">Hi 👋, I'm firas lweti</h1>
 <h3 align="center">A passionate Full stack developer from Tunisia</h3>
 
