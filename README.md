@@ -1,9 +1,9 @@
 ![MasterHead](https://www.vansysinc.com/wp-content/uploads/2023/09/banner-software-development-engineering-5-800x250.png)
 <h1 align="center">Hi 👋, I'm firas lweti</h1>
-<h3 align="center">A passionate Full stack developer from Tunisia</h3>
+<h3 align="center">A Passionate Full Stack Developer From Tunisia 🧑‍💻</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJndTlsenE5eHV4eW1oOGV1eXVxbjRyczN3bGlrZXdmdWhocnB5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+<img align="right" style = "margin : 20px" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJndTlsenE5eHV4eW1oOGV1eXVxbjRyczN3bGlrZXdmdWhocnB5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firaslweti&label=Profile%20views&color=0e75b6&style=flat" alt="firaslweti" /> </p>
